@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Personal Portfolio Website
 
 A full-stack Personal Portfolio Website developed using HTML, CSS, JavaScript, Flask, and MongoDB. This website showcases my skills, projects, certifications, and provides a contact form that stores user messages in MongoDB.
@@ -124,3 +125,6 @@ https://github.com/saiballari
 ## 📄 License
 
 This project is created for educational and internship purposes.
+=======
+# portfoilo_website
+>>>>>>> 5fab1e58ef2d9028dddc56525e4e7e7f741c9e70
