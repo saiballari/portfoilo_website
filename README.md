@@ -10,7 +10,7 @@ Welcome to my personal portfolio website repository. This project showcases my s
 
 ## 💼 LinkedIn
 
-🔗 <YOUR_LINKEDIN_PROFILE_URL>
+https://www.linkedin.com/in/venkata-sai-ballari-6a9737398/
 
 ## 📂 GitHub
 
