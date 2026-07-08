@@ -100,10 +100,10 @@ Visit the live portfolio:
 
 Feel free to connect with me.
 
-📧 Email: your-email@example.com
+📧 Email: ballarisai10@gmail.com
 
 💼 LinkedIn:
-<YOUR_LINKEDIN_PROFILE_URL>
+https://www.linkedin.com/in/venkata-sai-ballari-6a9737398/
 
 🌐 Portfolio:
 https://portfoilo-website-green.vercel.app/
