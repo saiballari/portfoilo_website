@@ -107,31 +107,31 @@ Portfolio/
 
 ## 🏠 Home Page
 
-![Home](screenshots/home.png)
+![Home](home.png)
 
 ---
 
 ## 👨 About Section
 
-![About](screenshots/about.png)
+![About](about.png)
 
 ---
 
 ## 💻 Skills Section
 
-![Skills](screenshots/skills.png)
+![Skills](skills.png)
 
 ---
 
 ## 📜 Certificates Section
 
-![Certificates](screenshots/certificates.png)
+![Certificates](certificates.png)
 
 ---
 
 ## 📬 Contact Section
 
-![Contact](screenshots/contact.png)
+![Contact](contact.png)
 
 ---
 
