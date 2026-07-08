@@ -1,42 +1,73 @@
-<<<<<<< HEAD
-# 🌐 Personal Portfolio Website
+# 👋 Hi, I'm Sai Ballari
 
-A full-stack Personal Portfolio Website developed using HTML, CSS, JavaScript, Flask, and MongoDB. This website showcases my skills, projects, certifications, and provides a contact form that stores user messages in MongoDB.
+## Full Stack Web Developer | Cyber Security Enthusiast | Java Programmer
+
+Welcome to my personal portfolio website repository. This project showcases my skills, projects, certifications, and achievements in web development and cybersecurity.
+
+## 🌐 Live Portfolio
+
+🔗 https://portfoilo-website-green.vercel.app/
+
+## 💼 LinkedIn
+
+🔗 <YOUR_LINKEDIN_PROFILE_URL>
+
+## 📂 GitHub
+
+🔗 https://github.com/saiballari
 
 ---
 
-## 🚀 Features
+# 🚀 About This Project
 
-- Responsive Personal Portfolio
+This is a responsive Full Stack Personal Portfolio Website developed to showcase my technical skills, projects, certifications, and contact information.
+
+The portfolio includes a Flask backend integrated with MongoDB for handling contact form submissions.
+
+---
+
+# ✨ Features
+
+- Responsive Design
+- Modern UI/UX
 - About Me Section
 - Skills Section
-- Projects Showcase
-- Certification Section
+- Project Showcase
+- Certificates Section
+- Resume Download
 - Contact Form
-- Flask Backend API
+- Flask Backend
 - MongoDB Database Integration
-- Contact messages stored in MongoDB
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
+
 - HTML5
 - CSS3
 - JavaScript
 
 ### Backend
+
 - Python
 - Flask
-- Flask-CORS
 
 ### Database
+
 - MongoDB
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Vercel
 
 ---
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 ```
 personal_portifoli/
@@ -45,86 +76,44 @@ personal_portifoli/
 │   ├── index.html
 │   ├── style.css
 │   ├── script.js
-│   ├── images/
-│   └── assets/
+│   ├── assets/
 │
 ├── backend/
 │   ├── app.py
 │   ├── database.py
-│   ├── .env
-│   └── requirements.txt
+│   ├── requirements.txt
 │
 └── README.md
 ```
 
 ---
 
-## ⚙️ Installation
+# 📸 Website Preview
 
-### Clone Repository
+Visit the live portfolio:
 
-```bash
-git clone https://github.com/saiballari/YOUR-REPOSITORY-NAME.git
-```
-
-Go to project folder
-
-```bash
-cd personal_portifoli
-```
-
-### Install Backend Dependencies
-
-```bash
-cd backend
-pip install -r requirements.txt
-```
-
-### Run Flask Server
-
-```bash
-python app.py
-```
-
-Server will run at:
-
-```
-http://127.0.0.1:5000
-```
+👉 https://portfoilo-website-green.vercel.app/
 
 ---
 
-## 📬 Contact Form
+# 📬 Contact
 
-The contact form sends user data to the Flask backend.
+Feel free to connect with me.
 
-The backend stores all submitted messages inside the **MongoDB** database.
+📧 Email: your-email@example.com
 
----
+💼 LinkedIn:
+<YOUR_LINKEDIN_PROFILE_URL>
 
-## 📷 Screenshots
-
-- Home Page
-- About Section
-- Projects Section
-- Contact Form
-
-(Add screenshots later if required.)
+🌐 Portfolio:
+https://portfoilo-website-green.vercel.app/
 
 ---
 
-## 👨‍💻 Author
+# ⭐ Support
 
-**Sai Ballari**
-
-GitHub:
-https://github.com/saiballari
+If you like this project, don't forget to give it a ⭐ on GitHub.
 
 ---
 
-## 📄 License
-
-This project is created for educational and internship purposes.
-=======
-# portfoilo_website
->>>>>>> 5fab1e58ef2d9028dddc56525e4e7e7f741c9e70
+## Thank you for visiting my Portfolio ❤️
